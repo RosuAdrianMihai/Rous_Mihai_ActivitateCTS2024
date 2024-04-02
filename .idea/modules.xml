@@ -4,7 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Calitate si testare software.iml" filepath="$PROJECT_DIR$/Calitate si testare software.iml" />
       <module fileurl="file://$PROJECT_DIR$/seminar4CTS/seminar4CTS.iml" filepath="$PROJECT_DIR$/seminar4CTS/seminar4CTS.iml" />
-      <module fileurl="file://$PROJECT_DIR$/seminar5CTS/seminar5CTS.iml" filepath="$PROJECT_DIR$/seminar5CTS/seminar5CTS.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5CTS_1/seminar5CTS_1.iml" filepath="$PROJECT_DIR$/seminar5CTS_1/seminar5CTS_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5CTS_2/seminar5CTS_2.iml" filepath="$PROJECT_DIR$/seminar5CTS_2/seminar5CTS_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar5CTS_3/seminar5CTS_3.iml" filepath="$PROJECT_DIR$/seminar5CTS_3/seminar5CTS_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/seminar6CTS/seminar6CTS.iml" filepath="$PROJECT_DIR$/seminar6CTS/seminar6CTS.iml" />
     </modules>
   </component>
 </project>
